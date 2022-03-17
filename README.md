@@ -44,3 +44,8 @@ Metric(s):
 
 log-loss : https://www.kaggle.com/wiki/LogarithmicLoss
 Binary Confusion Matrix
+
+
+### How to execute ?
+All the files are numbered in a sequence. Execute in the same sequence.
+
