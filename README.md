@@ -49,3 +49,10 @@ Binary Confusion Matrix
 ### How to execute ?
 All the files are numbered in a sequence. Execute in the same sequence.
 
+# Result
+## Achived minimum log-loss of 0.00001 using XGBoost classifier.
+
+![image](https://user-images.githubusercontent.com/22805226/161064591-abad8027-390f-460b-bc07-664f4f799b7b.png)
+
+![image](https://user-images.githubusercontent.com/22805226/161064705-9390c7f3-a347-4427-8981-d1bba4fe6b0d.png)
+
