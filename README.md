@@ -45,6 +45,10 @@ Metric(s):
 log-loss : https://www.kaggle.com/wiki/LogarithmicLoss
 Binary Confusion Matrix
 
+### Preprocessing
+1. Includes cleaning of data and feature engineering.
+2. I have developed various new features using nlp techniques.
+3. Used weighted average word2vec for embedding text features.
 
 ### How to execute ?
 All the files are numbered in a sequence. Execute in the same sequence.
